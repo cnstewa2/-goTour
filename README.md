@@ -1,7 +1,3 @@
-#Gotour Repo
-
-
-asdfasdf
-
+Golang Tour
 
 
